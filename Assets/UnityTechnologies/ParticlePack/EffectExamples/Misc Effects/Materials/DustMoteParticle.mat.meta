@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a545a04b1737e0f49956c15b0181435d
+timeCreated: 1473686037
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73777
+  packageName: Legacy Particle Pack
+  packageVersion: 4.0
+  assetPath: Assets/UnityTechnologies/ParticlePack/EffectExamples/Misc Effects/Materials/DustMoteParticle.mat
+  uploadId: 684565

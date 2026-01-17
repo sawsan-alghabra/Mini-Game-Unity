@@ -1,0 +1,26 @@
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# IDE / Editor
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional: Exporte
+*.apk
