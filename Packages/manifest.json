@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    
-    "com.unity.xr.oculus": "4.2.0",
     "com.meta.xr.sdk.all": "83.0.1",
     "com.unity.ai.navigation": "2.0.9",
     "com.unity.collab-proxy": "2.9.3",
@@ -14,6 +12,7 @@
     "com.unity.multiplayer.center": "1.0.0",
     "com.unity.performance.profile-analyzer": "1.2.3",
     "com.unity.postprocessing": "3.5.0",
+    "com.unity.probuilder": "6.0.8",
     "com.unity.render-pipelines.core": "17.0.4",
     "com.unity.render-pipelines.universal": "17.0.4",
     "com.unity.render-pipelines.universal-config": "17.0.3",
@@ -27,6 +26,7 @@
     "com.unity.visualscripting": "1.9.7",
     "com.unity.xr.interaction.toolkit": "3.0.10",
     "com.unity.xr.management": "4.5.4",
+    "com.unity.xr.oculus": "4.5.2",
     "com.unity.xr.openxr": "1.15.1",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.ai": "1.0.0",

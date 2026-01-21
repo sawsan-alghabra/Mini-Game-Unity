@@ -1,14 +1,12 @@
-using UnityEngine;
- 
-public class PinPuller : MonoBehaviour
+using UnityEngine; // <--- DIESE ZEILE HAT GEFEHLT
+
+public class FireExtinguisherPin : MonoBehaviour
 {
-    public FireExtinguisher mainScript;
- 
-    // Wird aufgerufen, wenn der Pin gegriffen wird
-    public void OnPinGrabbed()
+    public bool pinPulled = false;
+
+    public void OnPinPulled()
     {
-        mainScript.RemovePin();
-        // Deaktiviert den Pin, damit er "weg" ist
-        gameObject.SetActive(false); 
+        pinPulled = true;
+        Debug.Log("Der Stift wurde gezogen!"); // Hilfreich, um es in der Console zu sehen
     }
 }
