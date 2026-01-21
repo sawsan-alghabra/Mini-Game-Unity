@@ -24,3 +24,10 @@ Thumbs.db
 
 # Optional: Exporte
 *.apk
+# Unity / Android / Build temp
+.utmp/
+**/.utmp/
+*_BurstDebugInformation_DoNotShip/
+**/*_BurstDebugInformation_DoNotShip/
+tempburstlibs/
+**/tempburstlibs/

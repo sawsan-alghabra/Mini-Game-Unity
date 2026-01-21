@@ -1,5 +1,0 @@
-C:/VirtuelleRealitatundAR/letzteVersuch/.utmp/RelWithDebInfo/3rt6r4gl/arm64-v8a/CMakeFiles/edit_cache.dir
-C:/VirtuelleRealitatundAR/letzteVersuch/.utmp/RelWithDebInfo/3rt6r4gl/arm64-v8a/CMakeFiles/rebuild_cache.dir
-C:/VirtuelleRealitatundAR/letzteVersuch/.utmp/RelWithDebInfo/3rt6r4gl/arm64-v8a/GameActivity/CMakeFiles/game.dir
-C:/VirtuelleRealitatundAR/letzteVersuch/.utmp/RelWithDebInfo/3rt6r4gl/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
-C:/VirtuelleRealitatundAR/letzteVersuch/.utmp/RelWithDebInfo/3rt6r4gl/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
